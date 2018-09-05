@@ -1,2 +1,2 @@
-# Java-Algorithms
+# Java Algorithms
 Create java algorithms
